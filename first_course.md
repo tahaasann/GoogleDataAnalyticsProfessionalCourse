@@ -1,4 +1,5 @@
 # Google Data Analytics Sertificate Program
+
 # Modul 1
 > Öğrenmekte olduğunuz gibi, veriyi hemen hemen her yerde bulabilirsiniz. Dünyadaki herhangi bir şeyi gözlemlediğiniz ve değerlendirdiğiniz her an veri topluyor ve analiz ediyorsunuz demektir. Analiziniz, işleri yapmanın daha kolay yollarını bulmanıza, size zaman kazandıracak kalıpları belirlemenize ve olayları deneyimleme şeklinizi tamamen değiştirebilecek şaşırtıcı yeni perspektifler keşfetmenize yardımcı olur.
 
@@ -1397,3 +1398,4 @@ Veri analisti iş arayışınızda karşınıza çıkabilecek diğer sektörel u
 
 - Öz raporlama: Katılımcıların kendileri hakkında bilgi sağladığı bir veri toplama tekniği
 </details>
+
